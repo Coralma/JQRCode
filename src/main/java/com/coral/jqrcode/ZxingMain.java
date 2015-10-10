@@ -22,7 +22,6 @@ public class ZxingMain {
 
     public static void main(String[] args) {
         String myCodeText = "http://Crunchify.com/";
-
         // change path as per your laptop/desktop location
         String filePath = "ZxingQR.png";
         int size = 125;
